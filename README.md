@@ -1,6 +1,35 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello%20world&fontSize=90)
+
+1.
+# 큰 글씨 사용할 떄 사용
+## 많아질수록
+### 점점
+#### 작아진다
+##### 최대 다섯개 까지 가능
+
+2.
+링크걸기
+[ouneno_blog](https://blog.naver.com/ouneno)
+
+3.
+*은 순서가 없는 목록을 말한다
+* 깃
+  * 깃깃
+  *  긱
+    * 익
+    * 
+4.
+> 인용구
+> 오잉
+> 이융
+
+5.
+** 강조 문구
+나는 돈가스를 먹고 **체했다**
+
+
 # 개인
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 # 사용가능 DB
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -12,11 +41,6 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-
-
-
-
 
 # Vue.js = 현재 배우고 있는 기술 스택
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -33,4 +57,6 @@
 
 # 기타
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoulAPark&layout=compact)](https://github.com/YoulAPark/github-readme-stats)
 
