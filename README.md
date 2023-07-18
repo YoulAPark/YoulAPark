@@ -40,7 +40,7 @@ SI업체에서 근무하다가, 현. 솔루션업체로 이직준비중입니다
  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" a href="https://velog.io/@ouneno"/>
 </div>  
 
-[📬 @ouneno's velog 📬](https://velog.io/@ouneno)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ouneno)](벨로그링크) 
 
 ---
 
