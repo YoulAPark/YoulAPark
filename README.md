@@ -6,7 +6,7 @@ Backend Engineer who loves **continuous growth** 🚀
 
 <div>
  <div align="left">
-  <img src="https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/344865776_220400850704236_495678899674812784_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=xuAGBpNmpy4AX_bKqsH&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA9vQwcJQ0mAbqtze2HyogyvFcN6cgi5_ce416iVmrZaQ&oe=64BC18B0&_nc_sid=8b3546"/> 
+  <img src="">
  </div>
 </div>
 
