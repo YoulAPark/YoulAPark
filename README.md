@@ -2,36 +2,41 @@
 
 # Hello, I'm YoulA 👩🏻‍💻
 저는 지속적인 성장을 추구하는 개발자입니다.  
-Backend Engineer who loves **continuous growth**
+Backend Engineer who loves **continuous growth** 🚀
 
-![ouneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoulAPark&show_icons=true&theme=graywhite)
+<div>
+ <div align="left">
+  <img src="https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/344865776_220400850704236_495678899674812784_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=xuAGBpNmpy4AX_bKqsH&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA9vQwcJQ0mAbqtze2HyogyvFcN6cgi5_ce416iVmrZaQ&oe=64BC18B0&_nc_sid=8b3546"/> 
+ </div>
+</div>
+
+![ouneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoulAPark&show_icons=true&theme=graywhite)  
 
 ## 🚀 Tech Stacks 🚀
 <div>
  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=Java&logoColor=white"/> 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
 <div>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </div>
-
-<div>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<div> 
  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white"/>
+</div>
+
+## 📖 Blog & Social 📖
+<div>
  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-
 </div>
 
-
-
-#### Blog & Social
-
-</div>
+(https://velog.io/@ouneno)
 [@ouneno](https://github.com/YoulAPark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoulAPark&layout=compact)
 
 # 개인
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
