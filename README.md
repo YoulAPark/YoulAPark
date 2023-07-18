@@ -1,26 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello%20world&fontSize=90)
+<div align="center">
+
+# Hello, I'm YoulA 👩🏻‍💻
+저는 지속적인 성장을 추구하는 개발자입니다.  
+Backend Engineer who loves **continuous growth**
 
 ![ouneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoulAPark&show_icons=true&theme=graywhite)
 
-#### 2.
-링크걸기
-[ouneno_blog](https://blog.naver.com/ouneno)
+## 🚀 Tech Stacks 🚀
+<div>
+ <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=Java&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</div>
+<div>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+</div>
 
-3.
-*은 순서가 없는 목록을 말한다
-* 깃
-  * 깃깃
-  *  긱
-    * 익
-    * 
-4.
-> 인용구
-> 오잉
-> 이융
+<div>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">  
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+ <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 
-5.
-** 강조 문구
-나는 돈가스를 먹고 **체했다**
+</div>
+
+
+
+#### Blog & Social
+
+</div>
+[@ouneno](https://github.com/YoulAPark)
 
 
 # 개인
