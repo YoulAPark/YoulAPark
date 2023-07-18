@@ -1,13 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello%20world&fontSize=90)
 
-1.
-# 큰 글씨 사용할 떄 사용
-## 많아질수록
-### 점점
-#### 작아진다
-##### 최대 다섯개 까지 가능
+![ouneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoulAPark&show_icons=true&theme=graywhite)
 
-2.
+#### 2.
 링크걸기
 [ouneno_blog](https://blog.naver.com/ouneno)
 
