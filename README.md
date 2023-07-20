@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://github.com/YoulAPark/YoulAPark/assets/101085988/619ed3c3-dcf6-4326-b25c-203a23016ddd" width="95" height="110">
 
