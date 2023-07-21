@@ -4,7 +4,7 @@
 
 # Hello, I'm YoulA 🌱
 ### 저는 지속적인 성장을 추구하는 개발자입니다.  
-Backend Engineer who loves **continuous growth** 🚀
+Backend Engineer who loves **continuous growth**. 🚀
 
 ## 🚀 Tech Stacks 🚀
  
