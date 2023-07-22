@@ -29,7 +29,7 @@ Backend Engineer who loves **continuous growth**. 🚀
  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" a href="https://velog.io/@ouneno"/>
 </div>  
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ouneno)](벨로그링크) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ouneno)](https://velog.io/@ouneno) 
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoulAPark&layout=compact)
