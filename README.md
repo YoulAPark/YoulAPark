@@ -40,6 +40,7 @@ Backend Engineer who loves **continuous growth**. 🚀
 
 ![ouneno's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoulAPark&show_icons=true&theme=graywhite)  
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoulAPark&count_bg=%23929292&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ---
 
 # About Me!
@@ -50,5 +51,4 @@ SI업체에서 근무하다가, 현. 솔루션업체로 이직준비중입니다
 **요리**도 좋아하며, **사진**찍는 것도 유독 좋아합니다.🥰 
 
 ### #계획적 #꼼꼼함 #잘웃음 #친화력 #적응력 #긍정적
-
 </div>
